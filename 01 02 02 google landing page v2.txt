@@ -1,0 +1,27 @@
+<!doctype html>
+    <html>
+        <head></head>
+
+        <body>
+            <a href="https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header">About</a> <!--link left, hover behavior-->
+            <a href="https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US" target="_blank">Store</a> <!--link left, hover behavior-->
+            <a href="https://www.gmail.com">Gmail</a> <!--link right, hover behavior-->
+            <a href="https://www.google.com/imghp?hl=en&authuser=0&ogbl">Images</a> <!--link right, hover behavior-->
+            <a href="https://www.heraldscotland.com/resources/images/5600249/" target="_blank">apps</a> <!--DROPDOWN, hover behavior-->
+            <a href="https://www.heraldscotland.com/resources/images/5600249/" target="_blank">profile</a> <br> <!--DROPDOWN-->
+            <img src="https:/google logo.png"> <br> <!--center center <br>
+            User input search bar <br> <!--center center, hover behavior--> <br>
+            <a href="https://www.heraldscotland.com/resources/images/5600249/">Google Search</a> <!--BUTTON center center, hover behavior-->
+            <a href="https://www.heraldscotland.com/resources/images/5600249/">I'm Feeling Lucky</a> <br> <!--BUTTON same line as above center center, hover behavior-->
+            <a href="https://about.google/stories/world-pulse-google-translate/?utm_source=google&utm_medium=hpp&utm_campaign=EN-US">See how women around the world are sharing their stories with Google Translate</a> <br> <!--link center center, hover behavior-->
+            <!--Footer grey color-->
+            <a href="https://ads.google.com/intl/en_us/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1#!/">Advertising</a> <!--link left, hover behavior-->
+            <a href="https://smallbusiness.withgoogle.com/?subid=us-en-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google&utm_medium=ep&utm_campaign=google_hpbfooter&utm_content=google_hpbfooter&gmbsrc=us-en_US-et-gs-z-gmb-s-z-u~sb-g4sb_srvcs-u#!/">Business</a> <!--link left, hover behavior-->
+            <a href="https://www.google.com/search/howsearchworks/?fg=1">How Search Works</a> <!--link left, hover behavior-->
+            <a href="https://sustainability.google/commitments/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=">Carbon neutral since 2007</a> <!--with leaf icon link center, hover behavior-->
+            <a href="https://policies.google.com/privacy?hl=en&fg=1">Privacy</a> <!--link right, hover behavior-->
+            <a href="https://policies.google.com/terms?hl=en&fg=1">Terms</a> <!--link right, hover behavior-->
+            <a href="https://www.heraldscotland.com/resources/images/5600249/">Settings</a> <!--DROPDOWN, hover behavior-->
+        </body>
+
+    </html>

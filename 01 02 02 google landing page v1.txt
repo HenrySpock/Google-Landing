@@ -1,0 +1,20 @@
+<!doctype html>
+About link left
+Store link left
+Gmail link right
+Images link right
+Apps button right
+Profile button right
+Google Image center center
+User input search bar center center
+Google Search button center center
+I'm Feeling Lucky button same line as above center center
+See how women around the world are sharing their stories with Google Translate link center center
+Footer grey color
+Advertising link left
+Business link left
+How Search Works link left
+Carbon neutral since 2007 with leaf icon link center
+Privacy link right
+Terms link right
+Settings link right
