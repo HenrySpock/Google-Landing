@@ -1,0 +1,55 @@
+a {
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+}
+
+html, body {
+    width: 100%;
+    min-height: 100%;
+}
+
+img {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background: #f2f2f2;
+}
+
+.logo { 
+    margin-top: 12%; 
+}
+
+.tlink {
+    color: black;
+} 
+
+.rnav {
+    float: right;
+    display: inline-block;
+}
+
+.lnav {
+    display: inline-block;
+}
+
+
+.clink {
+    text-align: center;
+}
+
+.blink {
+    color: #70757a;
+    display: inline-block;
+}
+ 
