@@ -1,8 +1,0 @@
-Change log: 
-1. Divs in footer reflect are starting to reflect box model, meaning I am more aware of the sizing for the footer and the child divs and was able to center the "carbon neutral" text and icon.
-2. Search bar is styled for size, border and drop shadow.
-3. Buttons are styled for size, color and border.
-4. Piggybacking search behvior implented on search bar with action="https://www.google.com/search" applied to <form.>
-5. Color of the button text is correct, instead of jet black.
-6. When focusing on the search bar, it was acquiring a solid black border. This now has corrected behavior.
-7. The cursor in the search bar is now indented, rather than half hidden by the left border.
