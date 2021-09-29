@@ -1,8 +1,0 @@
-Change log: 
-1. The leaf icon is now part of the "carbon neutral" link.
-2. The title and browser tab text correctly state "Google" now, and the icon is linked as an .ico file in the head, also appearing in the browser tab. I was not able to find the exact image so I had to modify it in Photoshop, it's pretty close.
-3. Footer styled with css, eliminating the bottom half of the <br>s.  
-4. Footer color was correct, but now the footer *link* color is correct (darker grey as aopposed to black.)
-5. Logo is now placed with margin-top, eliminating the other half of the <br>s.
-6. I removed all of the "target="blank" - I link the behavior of opening a new tab, but that's not how the Google page works.
-7. I removed the dropdown selector for "products" - the products button is a card, I believe, and styling that is a bit beyond the scope of a "simple" page I think. I also didn't style the search bar or the buttons.
